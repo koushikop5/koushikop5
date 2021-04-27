@@ -11,6 +11,8 @@ Hey, I'm Koushik, a Web Developer 🚀, Both Front and Back End Developer.
 **How to Reach Me!**
 
 <a href="https://discord.gg/6eUDVFgtBB"><img src="https://cdn.discordapp.com/attachments/832501264306536490/834914064135094302/Screenshot_2021-04-23-03-40-09.png"/></a>
+
+
 -------------------
 
 
@@ -29,7 +31,7 @@ Hey, I'm Koushik, a Web Developer 🚀, Both Front and Back End Developer.
 
 ## DISCORD STATUS
 
-![Discord](https://cdn.discordapp.com/attachments/832501264306536490/834878765481197568/Screenshot_2021-04-23-01-20-01.png)
+![Discord Shield](https://discordapp.com/api/guilds/832497455537979402/widget.png?style=shield)
 
 --------------
 
