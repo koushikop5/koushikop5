@@ -34,7 +34,7 @@ Hey, I'm Koushik, a Web Developer 🚀, Both Front and Back End Developer.
 
 <a href="https://discordapp.com/users/779985841090330624/"><p align="center"><img style="border-radius: 6px !important;" align="center" src="https://discord.c99.nl/widget/theme-3/779985841090330624.png" alt="Koushik's Profile Picture" /></p></a>
 --------------
-![Discord Shield](https://discordapp.com/api/guilds/832497455537979402/widget.png?style=shield)
+![Discord Banner 2](https://discordapp.com/api/guilds/832497455537979402/widget.png?style=banner2)
 
 --------------
 
