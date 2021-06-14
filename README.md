@@ -25,7 +25,6 @@ You can enjoy your favourite playlist form YouTube, Spotify, SoundCloud supporte
 
 ## vote Disney 
 
-Free 24/7 on Disney Bot high quality music more `Coming Soon`<br><br>
-<a href="https://listcord.gg/bot/826795830111109153" >
-  <img src="https://cdn.discordapp.com/attachments/845722466188787778/851280040327249961/Screenshot_2021-06-07-07-32-29.png" alt="Disney" />
-</a>
+Free 24/7 on Disney Bot high quality music more `Coming Soon`
+
+<a href="https://discordbotlist.com/bots/826795830111109153"><img src="https://discordbotlist.com/api/v1/bots/826795830111109153/widget"></a>
