@@ -25,8 +25,10 @@ Runs 24/7 online. Hosted on Google cloud platform, enjoy song with Disney Music 
 You can enjoy your favourite playlist form YouTube, Spotify, SoundCloud supported.
 
 
-## vote Disney 
+## Vote Disney on [top.gg](https://top.gg/bot/826795830111109153)
 
 Free 24/7 on Disney Bot high quality music more `Coming Soon`
 
-<a href="https://discordbotlist.com/bots/826795830111109153"><img src="https://discordbotlist.com/api/v1/bots/826795830111109153/widget"></a>
+<a href="https://top.gg/bot/826795830111109153">
+  <img src="https://top.gg/api/widget/826795830111109153.svg" alt="Disney" />
+  </a>
