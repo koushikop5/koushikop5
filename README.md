@@ -2,7 +2,7 @@
 
 # Disney
 
-<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fdiscord.gg%2FJZ3UbCXPMg"><img alt="Twitter" src="https://img.shields.io/twitter/url?color=green&label=Discord&logo=Discord&style=plastic&url=https%3A%2F%2Fdiscord.gg%2FJZ3UbCXPMg"></a>
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![Discord Bots](https://top.gg/api/widget/status/826795830111109153.svg)](https://top.gg/bot/826795830111109153)
 [![Discord Bots](https://top.gg/api/widget/owner/826795830111109153.svg)](https://top.gg/bot/826795830111109153)
 
