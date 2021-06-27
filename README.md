@@ -4,7 +4,8 @@
 
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![Discord Bots](https://top.gg/api/widget/status/826795830111109153.svg)](https://top.gg/bot/826795830111109153)
-[![Discord Bots](https://top.gg/api/widget/owner/826795830111109153.svg)](https://top.gg/bot/826795830111109153)
+<a href="https://top.gg/bot/826795830111109153">
+  [![Discord Bots](https://top.gg/api/widget/upvotes/826795830111109153.svg)](https://top.gg/bot/826795830111109153)
 
 >  DISNEY  is a  high quality music bot, made by Team Disney DISNEY this is javascript based bot where we are trying to include everything possible join voice channel type  ,play and enjoy your songs.
 
