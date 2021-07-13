@@ -7,6 +7,8 @@
 <a href="https://top.gg/bot/826795830111109153">
   [![Discord Bots](https://top.gg/api/widget/upvotes/826795830111109153.svg)](https://top.gg/bot/826795830111109153)
 
+![](https://discord.c99.nl/widget/theme-2/779985841090330624.png)
+
 >  DISNEY  is a  high quality music bot, made by Team Disney DISNEY this is javascript based bot where we are trying to include everything possible join voice channel type  ,play and enjoy your songs.
 
 [Invite Disney](https://discord.com/oauth2/authorize?client_id=826795830111109153&permissions=37080128&scope=bot)
