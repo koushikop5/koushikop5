@@ -4,8 +4,9 @@
 
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
-![Discord Bots](https://top.gg/api/widget/upvotes/911504454795268096.svg)
-![](https://discord.c99.nl/widget/theme-2/779985841090330624.png)
+<a href="https://top.gg/bot/911504454795268096">
+  <img src="https://top.gg/api/widget/upvotes/911504454795268096.svg">
+</a>
 
 >  GOOFY  is a  high quality music bot, made by Team Disney DISNEY this is javascript based bot where we are trying to include everything possible join voice channel type  ,play and enjoy your songs.
 
@@ -30,4 +31,6 @@ You can enjoy your favourite playlist form YouTube, Spotify, SoundCloud supporte
 
 Free 24/7 on Goofy Bots & high quality music (more `Coming Soon`)
 
-![Discord Bots](https://top.gg/api/widget/911504454795268096.svg)
+<a href="https://top.gg/bot/911504454795268096">
+  <img src="https://top.gg/api/widget/911504454795268096.svg">
+</a>
