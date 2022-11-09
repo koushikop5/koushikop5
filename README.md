@@ -8,6 +8,8 @@
 
 [Support Server](https://dsc.gg/koushikcodez)
 
+[YouTube](htyps://youtube.com/c/koushikcodez)
+
 ## FEATURES
 Goofy gets ready with zero configuration just give read access where you are going to use it and you are ready to 24/7 music.
 
